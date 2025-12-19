@@ -2,10 +2,7 @@
 El presente trabajo de investigación se hizo posible gracias a la beca de trabajo del [VIII Fondo Concursable 2025 de la Facultad de Ciencia USACH](https://www.fciencia.usach.cl/noticias/viii-fondo-concursable-2025-impulsa-la-formacion-investigativa-y-la-movilidad-de-las-y-los)y al profesor [PhD. Leonardo Videla Muñoz](https://www.dmcc.usach.cl/personas/leonardo-videla-munoz/), el cual me presentó el tema de investigación y me motivó a no rendirme antes de empezar. Fue un pilar fundamental para mi entendimiento de los sistemas estocásticos y toma de decisiones respecto a mi futuro académico.
 
 # Marco Teórico
-El año 2024 se publica un [articulo](https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10980) que le propone una nueva perspectiva a la paradoja ecologica "competencia y especies coexistentes v/s diversidad biologica" mediante el uso de una familia de modelos descritos por
-$$
-\dot{x}= \frac{x}{\theta}(1-x^{\theta})
-$$
+El año 2024 se publica un [articulo](https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10980) que le propone una nueva perspectiva a la paradoja ecologica "competencia y especies coexistentes v/s diversidad biologica" mediante el uso de una familia de modelos descritos por $$\dot{x}= \frac{x}{\theta}(1-x^{\theta})$$
 para el cual los valores de $\theta$ lleva a crecimiento en regimenes *super* o *sub* lineales que pueden explicar la estabilidad del sistema ecologico ante gran variedad de especies. 
 El [articulo](https://inria.hal.science/hal-05156816v1) que da origen a este trabajo propone el analisis de estos modelos mediante procesos de nacimiento y muerte $Z^{K,\alpha}_{t}$ con tasas de cambio 
 $$
